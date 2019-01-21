@@ -1,2 +1,2 @@
 # imageProcessing-
-delineate the sediment-water interface for settling column images
+Delineate the sediment-water interface for settling column images
